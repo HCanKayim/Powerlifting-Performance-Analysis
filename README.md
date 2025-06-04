@@ -43,19 +43,7 @@ The project consists of several Python scripts and Jupyter notebooks that perfor
 
 ## Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone [repository-url]
-   cd [repository-name]
-   ```
-
-2. Create a virtual environment (recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. Install required packages:
+1. Install required packages:
    ```bash
    pip install -r requirements.txt
    ```
