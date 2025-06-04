@@ -61,12 +61,6 @@ Each analysis can be run either through the Python scripts or Jupyter notebooks:
    python [script_name].py
    ```
 
-2. To run Jupyter notebooks:
-   ```bash
-   jupyter notebook
-   ```
-   Then open the desired notebook in your browser.
-
 ## Output Files
 
 The analysis generates several output files:
