@@ -1,0 +1,29 @@
+=== Summary Statistics (Numerical Columns) ===
+               Age  BodyweightKg  Best3SquatKg  Best3BenchKg  Best3DeadliftKg      TotalKg        Wilks    McCulloch  Glossbrenner    IPFPoints
+count  2000.000000   1988.000000   2000.000000    2000.00000       2000.00000  1998.000000  1986.000000  1985.000000   1986.000000  1978.000000
+mean     34.080000     81.833405    189.195720     121.94883        204.17513   515.203829   390.858092   415.870005    365.169355   538.094783
+std      14.617718     23.442434     72.884305      53.13984         63.30203   182.450664    84.395249    80.253924     82.966106   106.140337
+min       1.500000     23.100000      7.500000       7.50000         20.00000    40.000000    37.290000    43.440000     35.880000     5.320000
+25%      21.500000     65.142500    132.500000      77.50000        152.50000   367.500000   333.980000   362.520000    308.545000   471.167500
+50%      30.500000     79.475000    182.500000     117.50000        202.17500   505.000000   392.780000   416.880000    363.675000   539.045000
+75%      44.000000     95.387500    240.000000     160.00000        252.50000   650.977500   449.890000   472.960000    421.972500   609.370000
+max      84.500000    187.700000    440.000000     330.00000        385.00000  1050.000000   669.140000   669.140000    653.050000   907.710000
+
+=== Missing Values ===
+AgeClass          1
+Division         15
+BodyweightKg     12
+WeightClassKg     2
+TotalKg           2
+Wilks            14
+McCulloch        15
+Glossbrenner     14
+IPFPoints        22
+
+=== Categorical Columns ===
+Name, Sex, Event, Equipment, AgeClass, Division, WeightClassKg, Place, Tested, Country, Federation, Date, MeetCountry, MeetState, MeetName
+
+=== Missing in Categorical Columns ===
+AgeClass          1
+Division         15
+WeightClassKg     2
